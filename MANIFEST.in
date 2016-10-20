@@ -1,0 +1,3 @@
+include requirements.txt
+include napalm_edgeos/templates/*.j2
+include napalm_edgeos/utils/textfsm_templates/*.tpl
